@@ -1,10 +1,10 @@
 --------
-A Python Trello API utility Script to 
+A Python Trello API utility Script is to 
         create board,
         create list ,
         create cards to that list name
         Edit a card
-        Add a new comment to the card """
+        Add a new comment to the card
 --------
 You can use this script to :
 
@@ -27,6 +27,14 @@ Setup
 ------
 Add the Trello API Key and Token in authorization.py file
 
+
+-------------------
+Requirements
+-------------------
+
+Python 3.8
+Add the Python Path to ENV variables
+PyCharm IDE --> Set the Python interpretor user Python.exe path
 
 
 ---------------------------
