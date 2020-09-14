@@ -1,1 +1,10 @@
 
+*.lnk
+*.log
+*.pyc
+log/
+.cache/
+.DS_Store
+logs/
+debug.log
+__pycache__
