@@ -32,9 +32,9 @@ Add the Trello API Key and Token in authorization.py file
 Requirements
 -------------------
 
-Python 3.8
-Add the Python Path to ENV variables
-PyCharm IDE --> Set the Python interpretor user Python.exe path
+1) Python 3.8
+2) Add the Python Path to ENV variables
+3) PyCharm IDE --> Set the Python interpretor user Python.exe path
 
 
 ---------------------------
@@ -48,4 +48,4 @@ python trello_main.py
 ISSUES?
 --------
 
-a) If Python complains about an "Import" exception, please 'pip install requests'
+If Python complains about an "Import" exception, please 'pip install requests'
